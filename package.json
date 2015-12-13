@@ -1,0 +1,32 @@
+{
+  "name": "micro-economics",
+  "version": "1.0.0",
+  "description": "Tool for making firm-level economics quick and easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexG53090/micro-economics.git"
+  },
+  "keywords": [
+    "economics",
+    "micro-economics",
+    "econ",
+    "formula",
+    "economic",
+    "formula",
+    "cost",
+    "revenue",
+    "analysis",
+    "firm",
+    "product"
+  ],
+  "author": "Alex Bennett <alexandergraybennett@gmail.com> (http://thedope.agency)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexG53090/micro-economics/issues"
+  },
+  "homepage": "https://github.com/alexG53090/micro-economics#readme"
+}
