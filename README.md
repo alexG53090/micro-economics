@@ -1,7 +1,7 @@
-###micro-economics
+### micro-economics
 Node Module for Calculating Firm-Level Economics
 
-###Usage:
+### Usage:
 
 1. Npm install micro-economics
 2. Require in your .js file
@@ -9,7 +9,7 @@ Node Module for Calculating Firm-Level Economics
 var firm = require('micro-economics');
 ```
 
-###Library Contains Methods For:
+### Library Contains Methods For:
 
 Average Total Cost
 ```javascript
