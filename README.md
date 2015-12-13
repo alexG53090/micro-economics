@@ -1,7 +1,7 @@
 # micro-economics
 Node Module for Calculating Firm-Level Economics
 
-##Usage
+##Usage:
 
 1. Npm install micro-economics
 2. Require in your .js file
